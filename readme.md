@@ -149,7 +149,7 @@
             <input type="text" name="name" required/>
           </div>
           <div class="item">
-          <p>Phone</p>
+          <p>Phone<span class="required">*</span></p>
           <input type="text" name="name"/>
         </div>
           </div>
@@ -166,7 +166,7 @@
             <label><input type="radio" value="none" name="Bedroom Requirement" required/> <span>1</span></label>
             <label><input type="radio" value="none" name="Bedroom Requirement" required/> <span>2</span></label>
             <label><input type="radio" value="none" name="Bedroom Requirement" required/> <span>3</span></label>
-            <label><input type="radio" value="none" name="Bedroom Requirement" required/> <span>3+</span></label>
+            <label><input type="radio" value="none" name="Bedroom Requirement" required/> <span>4+</span></label>
           </div>
         </div>
         <div class="btn-block">
