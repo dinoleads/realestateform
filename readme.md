@@ -44,7 +44,7 @@
       .banner {
       position: relative;
       height: 180px;
-      background-image: url("/uploads/media/default/0001/01/9e07ce3a601795a5ac09a66a0c1fc8978e0ee51a.jpeg");  
+      background-image: url("https://media.gettyimages.com/photos/empty-wood-table-top-on-blur-abstract-green-from-garden-and-house-picture-id928765222?b=1&k=6&m=928765222&s=612x612&w=0&h=bQ1mTUf7CudU0-wTVHu972Oqh7-quxBx3_t1b1q_yiY=");  
       background-size: cover;
       display: flex;
       justify-content: center;
@@ -150,7 +150,7 @@
           </div>
           <div class="item">
           <p>Phone<span class="required">*</span></p>
-          <input type="text" name="name" required/>
+            <input type="text" name="name" required/>
         </div>
           </div>
         <div class="question">
