@@ -161,7 +161,7 @@
           </div>
         </div>
         <div class="question">
-          <p>Bedroom Requirement<span class="required">*</span></p>
+          <p>Bedroom requirement<span class="required">*</span></p>
           <div class="question-answer">
             <label><input type="radio" value="none" name="Bedroom Requirement" required/> <span>1</span></label>
             <label><input type="radio" value="none" name="Bedroom Requirement" required/> <span>2</span></label>
