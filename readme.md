@@ -135,84 +135,38 @@
     <div class="testbox">
       <form action="/">
         <div class="banner">
-          <h1>Gym Membership Form</h1>
+          <h1>Contact Form</h1>
         </div>
-        <p class="top-info">Looking to sell or buy your home? We will connect you directly to a realtor in your city.</p>
+        <p class="top-info">Looking to buy or sell a home? We will connect you directly to a realtor in your city.</p>
         <div class="item">
           <p>Name<span class="required">*</span></p>
           <div class="name-item">
             <input type="text" name="name" placeholder="First" required/>
             <input type="text" name="name" placeholder="Last" required/>
           </div>
-        </div>
-        <div class="question">
-          <p>Gender<span class="required">*</span></p>
-          <div class="question-answer">
-            <label><input type="radio" value="none" name="gender" required/> <span>Male</span></label>
-            <label><input type="radio" value="none" name="gender" required/> <span>Female</span></label>
-          </div>
-        </div>
-        <div class="item">
-          <p>Your current weight (lbs)<span class="required">*</span></p>
-          <input type="text" name="name"/>
-        </div>
-        <div class="item">
-          <p>Desired weight (lbs)<span class="required">*</span></p>
-          <input type="text" name="name" required/>
-        </div>
-        <div class="item">
-          <p>Height<span class="required">*</span></p>
-          <input type="text" name="name" required/>
-        </div>
-        <div class="item">
-          <p>BMI<span class="required">*</span></p>
-          <input type="text" name="name" required/>
-        </div>
-        <div class="item">
-          <p>Home Address<span class="required">*</span></p>
-          <input type="text" name="name" placeholder="Street address" required/>
-          <div class="city-item">
-            <input type="text" name="name" placeholder="City" required/>
-            <input type="text" name="name" placeholder="Region" required/>
-            <input type="text" name="name" placeholder="Postal / Zip code" required/>
-            <select>
-              <option value="">Country</option>
-              <option value="1">Russia</option>
-              <option value="2">Germany</option>
-              <option value="3">France</option>
-              <option value="4">Armenia</option>
-              <option value="5">USA</option>
-            </select>
-          </div>
-        </div>
-        <div class="item">
+           <div class="item">
           <p>Email<span class="required">*</span></p>
-          <input type="text" name="name" required/>
-        </div>
-        <div class="item">
+            <input type="text" name="name" required/>
+          </div>
+          <div class="item">
           <p>Phone</p>
           <input type="text" name="name"/>
         </div>
+          </div>
         <div class="question">
-          <p>Do you require a personal trainer?<span class="required">*</span></p>
+          <p>Pre-approved mortgage?<span class="required">*</span></p>
           <div class="question-answer">
-            <label><input type="radio" value="none" name="personal-trainer" required/> <span>Yes</span></label>
-            <label><input type="radio" value="none" name="personal-trainer" required/> <span>No</span></label>
+            <label><input type="radio" value="none" name="mortgage" required/> <span>Yes</span></label>
+            <label><input type="radio" value="none" name="mortgage" required/> <span>No</span></label>
           </div>
         </div>
         <div class="question">
-          <p>Have you been in a Gym before?<span class="required">*</span></p>
+          <p>Bedroom Requirement<span class="required">*</span></p>
           <div class="question-answer">
-            <label><input type="radio" value="none" name="gym-before" required/> <span>Yes</span></label>
-            <label><input type="radio" value="none" name="gym-before" required/> <span>No</span></label>
-          </div>
-        </div>
-        <div class="question">
-          <p>Membership Type<span class="required">*</span></p>
-          <div class="question-answer">
-            <label><input type="radio" value="none" name="membership" required/> <span>Regular</span></label>
-            <label><input type="radio" value="none" name="membership" required/> <span>Pro</span></label>
-            <label><input type="radio" value="none" name="membership" required/> <span>VIP</span></label>
+            <label><input type="radio" value="none" name="Bedroom Requirement" required/> <span>1</span></label>
+            <label><input type="radio" value="none" name="Bedroom Requirement" required/> <span>2</span></label>
+            <label><input type="radio" value="none" name="Bedroom Requirement" required/> <span>3</span></label>
+            <label><input type="radio" value="none" name="Bedroom Requirement" required/> <span>3+</span></label>
           </div>
         </div>
         <div class="btn-block">
