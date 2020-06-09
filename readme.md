@@ -150,7 +150,7 @@
           </div>
           <div class="item">
           <p>Phone<span class="required">*</span></p>
-          <input type="text" name="name"/>
+          <input type="text" name="name" required/>
         </div>
           </div>
         <div class="question">
