@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Gym Membership Form</title>
+    <title>Real Estate Contact Form</title>
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <style>
@@ -137,7 +137,7 @@
         <div class="banner">
           <h1>Gym Membership Form</h1>
         </div>
-        <p class="top-info">Want to become a member of our Gym? Then start by filling our form to complete registration. We will contact you shortly to notify you about your membership card.</p>
+        <p class="top-info">Looking to sell or buy your home? We will connect you directly to a realtor in your city.</p>
         <div class="item">
           <p>Name<span class="required">*</span></p>
           <div class="name-item">
